@@ -1,4 +1,4 @@
-"""Tarea"""
+"""Minimum selection"""
 
 numbers = [8,6,4,2,7,5,1,9,3]
 count = 0
